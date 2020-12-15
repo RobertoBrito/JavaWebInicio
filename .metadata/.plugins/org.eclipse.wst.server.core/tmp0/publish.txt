@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Mon Dec 14 22:50:00 BRST 2020
+org.eclipse.jst.jee.server\:meu-primeiro-projeto=F\:\\apache-tomcat-9.0.41\\wtpwebapps\\meu-primeiro-projeto
